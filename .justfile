@@ -9,5 +9,8 @@ recipes:
 build input output="out":
     gcc -o {{output}} -I ./{{input}} {{input}}/*.cpp -lstdc++
 
+debug-build input output="out":
+    gcc -g -o {{output}} -I ./{{input}} {{input}}/*.cpp -lstdc++
+
 run input output="out": (build input output)
     {{output}}

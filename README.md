@@ -10,6 +10,8 @@ Current Day: 1
   - [Guide](https://guide.handmadehero.org/)
   - [Forum](https://hero.handmade.network/)
   - [Youtube](https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU)
+- Justfile (command runner)
+  - [github](https://github.com/casey/just)
 - Debug output viewer
   - [DebugView](https://learn.microsoft.com/en-us/sysinternals/downloads/debugview)
 - Windows function details
